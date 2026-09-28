@@ -1,4 +1,4 @@
-GRAPHIRE DRIVER 0.01 - for Wacom ET-0405A-U (Graphire2 4x5) on Windows 10/11
+GRAPHIRE DRIVER 0.1 - for Wacom ET-0405A-U (Graphire2 4x5) on Windows 10/11
 ===========================================================================
 
 A small tray program that reads the tablet directly and feeds Windows real
