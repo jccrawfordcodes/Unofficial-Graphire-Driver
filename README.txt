@@ -7,9 +7,15 @@ Graphire mouse, absolute/relative modes, acceleration and pressure curves.
 It needs no driver install and no driver signing.
 
 
+USE
+-----
+
+The application will only appear as a tray icon. If you wish to change settings,
+test pressure, or exit the applications, right-click on the tray icon.
+
 SETUP
 -----
-1. Close OpenTabletDriver: right-click its tray icon, choose Exit, and turn off
+1. Close OpenTabletDriver (if using): right-click its tray icon, choose Exit, and turn off
    its autostart. Only one program can drive the tablet at a time.
    If you ever used Zadig on the tablet, or an old Wacom driver is still
    installed, remove it. In Device Manager the tablet should appear as a normal
